@@ -223,12 +223,10 @@ REACT_APP_CLOUDINARY_CLOUD_NAME=prod-cloud-name
 
 ## 👨‍💻 Developer
 
-**Ashwani Kumar Singh**  
+**Yuvraj Singh**  
 Full Stack Developer | MERN Stack Specialist
 
-- **Portfolio:** [ashwanisingh-portfolio.netlify.app](https://ashwanisingh-portfolio.netlify.app/)
-- **LeetCode:** 566+ problems solved
-- **Experience:** Programmer Analyst Trainee @ Cognizant
+- **LeetCode:** 166+ problems solved
 - **Skills:** React.js, Node.js, MongoDB, Express.js, JWT, Socket.IO
 
 ## 📝 License
